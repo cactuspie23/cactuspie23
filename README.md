@@ -2,7 +2,7 @@
 <h3 align="center">An innovative and passionate software developer</h3>
 
 
-- 🌱 I’m currently learning **algorithms and data structures**
+- 🌱 I’m currently learning **cybersecurity principals**
 
 - 👨‍💻 All of my projects are available at [my portfolio website](https://alyssad.netlify.app/)
 
